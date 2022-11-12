@@ -1,9 +1,7 @@
 .gradiente {
     display: flex;
     height: 1477px;
-    background-color: #B5B6F2;;
-    background-image: url("fundo.png");
-    background-repeat: no-repeat;
+    background: #B5B6F2 url("fundo.png") no-repeat;
 }
 
 .form-login {
@@ -64,10 +62,7 @@
     color: #F5F5F5;
     border-radius: 8px;
     border: none;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
+    font: normal 700 16px 'Inter';
     line-height: 24px;
     text-align: center;
     letter-spacing: 0.75px;
@@ -78,10 +73,7 @@
     height: 36px;
     left: 30px;
     top: 30px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
+    font: normal 700 32px 'Inter';
     line-height: 36px;
     color: #1F1F1F;
     letter-spacing: 1px;
@@ -90,10 +82,7 @@
 .register-login {
     width: 306px;
     height: 28px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
+    font: normal 400 16px 'Inter';
     line-height: 28px;
     text-align: center;
     letter-spacing: 0.75px;

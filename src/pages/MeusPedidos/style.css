@@ -21,29 +21,20 @@
 }
 
 .MeusPedidos-span {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.75px;
     color: #474747;
 }
 
 .MeusPedidos-cor {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.75px;    
 }
 
 .setMeusPedidos-cor{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.75px;   
     color: #C92071;

@@ -9,18 +9,13 @@
 }
 
 .texto-cabecalho-titulo {
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size: 24px;
+    font: normal 700 24px 'Inter';
     color:#474747;
     letter-spacing: 0.75px;
 }
 
 .texto-cabecalho-link {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
+    font: normal 400 18px 'Inter';
     line-height: 34px;
     letter-spacing: 0.75px;
     color: #C92071;
@@ -75,9 +70,7 @@
 }
 
 .item-titulo {
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size: 12px;
+    font: 700 12px 'Inter';
     line-height: 24px;
     letter-spacing: 0.75px;
     color: #8F8F8F;
@@ -85,10 +78,7 @@
 }
 
 .item-para {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
+    font: normal 400 24px 'Inter';
     line-height: 38px;
     letter-spacing: 0.75px;
     color: #474747;
@@ -100,10 +90,7 @@
 }
 
 .item-para2 {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
+    font: normal 700 24px 'Inter';
     line-height: 38px;
     letter-spacing: 0.75px;
     color: #1F1F1F;

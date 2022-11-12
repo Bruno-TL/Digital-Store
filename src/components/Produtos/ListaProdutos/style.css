@@ -42,9 +42,7 @@
 }
 
 .itens-titulo {
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size: 12px;
+    font: 700 14px 'Inter';
     line-height: 24px;
     letter-spacing: 0.75px;
     color: #8F8F8F;
@@ -52,20 +50,14 @@
 }
 
 .itens-para {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
+    font: normal 400 24px 'Inter';
     line-height: 38px;
     letter-spacing: 0.75px;
     color: #474747;    
 }
 
 .itens-para2 {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
+    font: normal 700 44px 'Inter';
     line-height: 38px;
     letter-spacing: 0.75px;
     color: #1F1F1F;

@@ -31,9 +31,7 @@
 
 .texto1 {
   color: #c92071;
-  font-family: Inter;
-  font-size: 14px;
-  font-weight: 700;
+  font: normal 700 14px 'Inter';
   line-height: 22px;
   letter-spacing: 0.75px;
   text-align: left;
@@ -41,9 +39,7 @@
 
 .texto2 {
   color: #474747;
-  font-family: Inter;
-  font-size: 48px;
-  font-weight: 700;
+  font: normal 700 48px 'Inter';
   line-height: 50px;
   letter-spacing: 0.9999998807907104px;
   text-align: left;
@@ -51,9 +47,8 @@
 
 .texto3 {
   color: #474747;
-  font-family: Inter;
-  font-size: 16px;
-  font-weight: 400;
+      font: normal 700 16px 'Inter';
+
   line-height: 28px;
   letter-spacing: 0.75px;
   text-align: left;
@@ -67,9 +62,7 @@
   border: 0;
   border-radius: 8px;
   background-color: #c92071;
-  font-family: Inter;
-  font-size: 14px;
-  font-weight: 700;
+  font: normal 700 14px 'Inter';
   line-height: 22px;
   letter-spacing: 0.75px;
   text-align: center;

@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "---------------------------------------------------------------------------------------------\r # Front-End:\r - React.js\r - Git\r - Github\r - Booststrap\r - Trabalho em equipe (home office)\r - Jsx, css\r - Bibliotecas externas.\r ----------------------------------------------------------------------------------------------",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDik/Digital-Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinDik/Digital-Store/issues"
+  },
+  "homepage": "https://github.com/KevinDik/Digital-Store#readme"
 }

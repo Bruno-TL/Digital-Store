@@ -32,10 +32,7 @@
     margin-top: 15px;
     width: 440px;
     height: 72px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
+    font: normal 700 32px 'Inter';
     line-height: 36px;
     letter-spacing: 1px;
     color: #1F1F1F;
@@ -44,10 +41,7 @@
 .ref-produtoDetalhe {
     width: 425px;
     height: 21px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
+    font: normal 700 12px 'Inter';
     line-height: 18px;
     display: flex;
     align-items: center;
@@ -64,21 +58,14 @@
 }
 
 .preco-produtoDetalhe {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
+    font: normal 700 32px 'Inter';
     line-height: 36px;
     letter-spacing: 1px;
     color: #474747;
 }
 
 .riscadoProduto {
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
+    font: normal 700 16px 'Inter';
     line-height: 28px;
     letter-spacing: 0.75px;
     text-decoration-line: line-through;
@@ -88,10 +75,7 @@
 .descricao-produtoDetalhe {
     width: 162px;
     height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.75px;
     color: #8F8F8F;
@@ -100,10 +84,7 @@
 .parag-produtoDetalhe {
     width: 440px;
     height: 66px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font: normal 500 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.25px;
     color: #474747;
@@ -115,10 +96,7 @@
     height: 22px;
     left: 841px;
     top: 611px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     letter-spacing: 0.75px;
     color: #8F8F8F;
@@ -127,13 +105,13 @@
 .buttonTamanhoTennis {
     margin: 15px 0;
     width: 48px;
-height: 48px;
+    height: 48px;
     background: #FFFFFF;
 /* light-gray-2 */
 
-border: 1px solid #CCCCCC;
-border-radius: 4px;
-}
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    }
 
 .buttonTamanhoTennis:hover{
     background: #C92071;
@@ -143,8 +121,8 @@ border-radius: 4px;
 .botaoComprar-produtoDetalhe {
     color: #fff;
     background: #FFB31F;
-border-radius: 8px;
-border: none;
-width: 200px;
-height: 48px;
-}
+    border-radius: 8px;
+    border: none;
+    width: 200px;
+    height: 48px;
+    }

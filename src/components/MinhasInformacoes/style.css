@@ -15,10 +15,7 @@
 .LinkA-MinhasInformações {
     width: 86px;
     height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font: normal 500 14px 'Inter';
     line-height: 22px;
     text-align: center;
     letter-spacing: 0.25px;
@@ -30,10 +27,7 @@
 .Span-MinhasInformacoesTitulo {
     width: 146px;
     height: 22px;  
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
+    font: normal 700 14px 'Inter';
     line-height: 22px;
     text-align: center;
     letter-spacing: 0.75px;
@@ -49,10 +43,7 @@
 }
 
 .Span-InformacoesPessoais {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
+    font: normal 700 16px 'Inter';
     line-height: 24px;
     letter-spacing: 0.75px;
     color: #474747;
@@ -64,10 +55,7 @@
 .Span-Nome {
     width: 45px;
     height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font: normal 500 14px 'Inter';
     line-height: 30px;
     letter-spacing: 0.25px;
     color: #8F8F8F;
@@ -76,10 +64,7 @@
 }
 
 .Span-Informacoesdeentrega {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
+    font: normal 700 16px 'Inter';
     line-height: 24px;
     letter-spacing: 0.75px;
     color: #474747;
@@ -91,10 +76,7 @@
 .Span-Informacao {
     width: 178px;
     height: 22px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
+    font: normal 500 14px 'Inter';
     line-height: 22px;
     text-align: center;
     letter-spacing: 0.25px;
